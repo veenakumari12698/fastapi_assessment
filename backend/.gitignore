@@ -14,7 +14,8 @@ env/
 env
 .venv/
 .venv
-
+.venv311/
+.venv311
 
 #files
 db.sqlite3 
